@@ -1,0 +1,11 @@
+{
+  "name": "u-hamsyh-the-one-line-ai-excuse-for-breaking-e53dac66",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Writes one line an AI agent says after breaking production, to /output/entry.txt",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
